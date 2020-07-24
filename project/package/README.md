@@ -2,4 +2,8 @@
 
 ## Second level stuff
 
-An edit to give non-trivial blame.
+An edit before committing.
+
+## More stuff
+
+An edit to give non-trivial blame
