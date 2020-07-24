@@ -1,2 +1,0 @@
-Just some text in a file.
-Multiple lines for fun.
